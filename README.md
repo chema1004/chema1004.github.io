@@ -20,6 +20,14 @@ Este proyecto refleja mis intereses en **desarrollo web**, **frontend**, **backe
 - **Herramientas:** Visual Studio Code, Git, GitHub  
 - **Diseño:** Figma, Canva  
 
+
+--
+##📬 Contacto
+📧 ruisco04@gmail.com
+📱 +52 (687) 153-9579
+📍 Jalisco, México
+💼 Disponible para proyectos freelance
+
 ---
 
 ## 📂 Estructura del proyecto
@@ -29,9 +37,3 @@ Este proyecto refleja mis intereses en **desarrollo web**, **frontend**, **backe
 ├── /js              # Scripts
 └── /assets          # Imágenes y recursos
 
---
-##📬 Contacto
-📧 ruisco04@gmail.com
-📱 +52 (687) 153-9579
-📍 Jalisco, México
-💼 Disponible para proyectos freelance
