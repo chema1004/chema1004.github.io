@@ -29,7 +29,7 @@ Este proyecto refleja mis intereses en **desarrollo web**, **frontend**, **backe
 ├── /js              # Scripts
 └── /assets          # Imágenes y recursos
 
-
+--
 ##📬 Contacto
 📧 ruisco04@gmail.com
 📱 +52 (687) 153-9579
