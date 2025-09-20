@@ -21,7 +21,7 @@ Este proyecto refleja mis intereses en **desarrollo web**, **frontend**, **backe
 - **Diseño:** Figma, Canva  
 
 
---
+---
 ##📬 Contacto
 📧 ruisco04@gmail.com
 📱 +52 (687) 153-9579
