@@ -22,15 +22,19 @@ Este proyecto refleja mis intereses en **desarrollo web**, **frontend**, **backe
 
 ---
 
+## 📬 Contacto
+- 👤 Luis Francisco Rosas Vega
+- 📧 ruisco04@gmail.com
+- 📱 +52 (687) 153-9579
+- 📍 Jalisco, México
+- 💼 Disponible para proyectos freelance
+
+---
+
 ## 📂 Estructura del proyecto
 ```bash
 ├── index.html       # Página principal
 ├── /css             # Estilos
 ├── /js              # Scripts
 └── /assets          # Imágenes y recursos
-📬 Contacto
-👤 Luis Francisco Rosas Vega
-📧 ruisco04@gmail.com
-📱 +52 (687) 153-9579
-📍 Jalisco, México
-💼 Disponible para proyectos freelance
+
