@@ -23,10 +23,10 @@ Este proyecto refleja mis intereses en **desarrollo web**, **frontend**, **backe
 
 ---
 ##📬 Contacto
-📧 ruisco04@gmail.com
-📱 +52 (687) 153-9579
-📍 Jalisco, México
-💼 Disponible para proyectos freelance
+-📧 ruisco04@gmail.com
+-📱 +52 (687) 153-9579
+-📍 Jalisco, México
+-💼 Disponible para proyectos freelance
 
 ---
 
